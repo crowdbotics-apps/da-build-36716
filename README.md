@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-user-profile](modules/user-profile)
 - [screen-social-profile](screens/social-profile)
 - [screen-onboarding-add-certificate](screens/onboarding-add-certificate)
+- [screen-messages-listing](screens/messages-listing)
 
 # Getting started: Frontend
 
