@@ -1252,7 +1252,10 @@
 "@screens/forgot-password@file:./screens/forgot-password":
   version "1.0.0"
 
-"@screens/messages-listing@file:./screens/messages-listing/":
+"@screens/messages-listing@file:./screens/messages-listing":
+  version "1.0.0"
+
+"@screens/notifications-preference@file:./screens/notifications-preference/":
   version "1.0.0"
 
 "@screens/onboarding-add-certificate@file:./screens/onboarding-add-certificate":

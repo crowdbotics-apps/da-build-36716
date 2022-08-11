@@ -21,6 +21,7 @@
     "@screens/about-the-app": "file:./screens/about-the-app/",
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/messages-listing": "file:./screens/messages-listing/",
+    "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "@screens/onboarding-add-certificate": "file:./screens/onboarding-add-certificate/",
     "@screens/settings": "file:./screens/settings/",
     "@screens/social-profile": "file:./screens/social-profile/",
