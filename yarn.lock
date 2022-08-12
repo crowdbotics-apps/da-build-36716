@@ -1266,7 +1266,7 @@
 "@screens/notifications-preference@file:./screens/notifications-preference":
   version "1.0.0"
 
-"@screens/notifications@file:./screens/notifications/":
+"@screens/notifications@file:./screens/notifications":
   version "1.0.0"
 
 "@screens/onboarding@file:./screens/onboarding":
@@ -1279,9 +1279,6 @@
   version "1.0.0"
 
 "@screens/settings@file:./screens/settings":
-  version "1.0.0"
-
-"@screens/social-profile@file:./screens/social-profile":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

@@ -63,7 +63,6 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-about-the-app](screens/about-the-app)
 - [screen-forgot-password](screens/forgot-password)
 - [react-native-user-profile](modules/user-profile)
-- [screen-social-profile](screens/social-profile)
 - [screen-messages-listing](screens/messages-listing)
 - [screen-notifications-preference](screens/notifications-preference)
 - [screen-menu](screens/menu)

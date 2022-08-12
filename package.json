@@ -29,7 +29,6 @@
     "@screens/post-listing": "file:./screens/post-listing/",
     "@screens/privacy": "file:./screens/privacy/",
     "@screens/settings": "file:./screens/settings/",
-    "@screens/social-profile": "file:./screens/social-profile/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
