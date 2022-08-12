@@ -24,6 +24,7 @@
     "@screens/menu": "file:./screens/menu/",
     "@screens/messages-listing": "file:./screens/messages-listing/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
+    "@screens/onboarding": "file:./screens/onboarding/",
     "@screens/post-listing": "file:./screens/post-listing/",
     "@screens/privacy": "file:./screens/privacy/",
     "@screens/settings": "file:./screens/settings/",

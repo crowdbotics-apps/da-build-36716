@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-post-listing](screens/post-listing)
 - [screen-privacy](screens/privacy)
 - [terms-and-conditions]()
+- [screen-onboarding](screens/onboarding)
 
 # Getting started: Frontend
 
