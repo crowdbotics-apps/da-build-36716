@@ -1266,7 +1266,10 @@
 "@screens/notifications-preference@file:./screens/notifications-preference":
   version "1.0.0"
 
-"@screens/onboarding@file:./screens/onboarding/":
+"@screens/notifications@file:./screens/notifications/":
+  version "1.0.0"
+
+"@screens/onboarding@file:./screens/onboarding":
   version "1.0.0"
 
 "@screens/post-listing@file:./screens/post-listing":
