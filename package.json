@@ -21,7 +21,6 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/about-the-app": "file:./screens/about-the-app/",
     "@screens/forgot-password": "file:./screens/forgot-password/",
-    "@screens/menu": "file:./screens/menu/",
     "@screens/messages-listing": "file:./screens/messages-listing/",
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
